@@ -1,7 +1,8 @@
-#README of hwk-template
+# hwk-template
 
-## Hwk description
+## task description
 
+**note:** put your code in src folder
 
 #### commands
 
